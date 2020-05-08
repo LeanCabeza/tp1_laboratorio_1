@@ -66,17 +66,4 @@ int main(void) {
 		return 0;
 	}
 
-	/*printf("Ingrese el primer numero con el que desea Operar");
-		scanf("%f",&num1);
-	printf("Ingrese el segundo numero con el que desea Operar");
-			scanf("%f",&num2);
-
-	utn_sumar( num1, num2);
-	utn_restar( num1, num2);
-	utn_dividir( num1, num2);
-	utn_multiplicar( num1, num2);
-	utn_factorial( num1);
-	utn_factorial( num2);*/
-
-
 
